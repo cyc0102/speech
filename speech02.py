@@ -7,7 +7,5 @@ time.sleep(2)
 mixer.music.load('hello2.mp3')
 mixer.music.play()
 time.sleep(4)
-mixer.music.load('hello3.mp3')
-mixer.music.play()
-time.sleep(4)
+
 
